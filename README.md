@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya Jaiswal</h1>
 <h3 align="center">Full Stack Developer in PERN stack</h3>
 
+- 🔭 I’m currently working on *my DSA skills*
+
 - 🌱 I’m currently learning *System Design*
 
-- 💬 Ask me about *C++, JavaScript, React Native, React.js, Node.js, Express.js, PostgreSQL, HTML, CSS*
+- 💬 Ask me about *C++, DSA, JavaScript, React Native, React.js, Node.js, Express.js, PostgreSQL, HTML, CSS*
 
 - 📫 How to reach me: *adityajaiswal094@gmail.com*
 
