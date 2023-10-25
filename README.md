@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on *my DSA skills*
 
-- 🌱 I’m currently learning *System Design*
+- 🌱 I’m currently learning **
 
 - 💬 Ask me about *C++, DSA, JavaScript, React Native, React.js, Node.js, Express.js, PostgreSQL, HTML, CSS*
 
