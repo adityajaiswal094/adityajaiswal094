@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aditya Jaiswal</h1>
-<h3 align="center">Full Stack Developer in PERN stack</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on *my DSA skills*
+<!-- - 🔭 I’m currently working on *my DSA skills* -->
 
-- 🌱 I’m currently learning **
+<!-- - 🌱 I’m currently learning ** -->
 
 - 💬 Ask me about *C++, DSA, JavaScript, React Native, React.js, Node.js, Express.js, PostgreSQL, HTML, CSS*
 
 - 📫 How to reach me: *adityajaiswal094@gmail.com*
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1O5OzfjA2tWAb-2asC33ITftEfEA-JCrB/view?usp=drive_link).
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1kzYnaF6gvex7zSN43bKFqvFAnqwopYJb/view?usp=sharing).
 
 <div> 
   <a href="https://www.linkedin.com/in/adityajaiswal094/" target="_blank">
