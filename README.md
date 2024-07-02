@@ -5,7 +5,7 @@
 
 <!-- - 🌱 I’m currently learning ** -->
 
-- 💬 Ask me about *C++, DSA, JavaScript, React Native, React.js, Node.js, Express.js, PostgreSQL, HTML, CSS*
+- 💬 Ask me about *C++, DSA, Dart, JavaScript, Flutter, React Native, React.js, Node.js, Express.js, PostgreSQL*
 
 - 📫 How to reach me: *adityajaiswal094@gmail.com*
 
