@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: *adityajaiswal094@gmail.com*
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1kzYnaF6gvex7zSN43bKFqvFAnqwopYJb/view?usp=sharing).
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1XfhAxOqZ38bvWhkGJEnDpbcoPj5CDiKs/view?usp=drive_link).
 
 <div> 
   <a href="https://www.linkedin.com/in/adityajaiswal094/" target="_blank">
